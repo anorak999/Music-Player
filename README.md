@@ -1,5 +1,4 @@
 🎵 Python Music Player
-Music Player Screenshot (replace with your actual screenshot)
 
 A simple terminal-based music player with playlist support.
 
